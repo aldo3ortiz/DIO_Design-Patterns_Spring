@@ -1,0 +1,9 @@
+ca\andre\service\ClientServiceImplement.class
+ca\andre\model\Client.class
+ca\andre\model\AddressRepository.class
+ca\andre\controller\ClientRestController.class
+ca\andre\model\Address.class
+ca\andre\service\ZipService.class
+ca\andre\service\ClientService.class
+ca\andre\designpatternsspring\DesignPatternsSpringApplication.class
+ca\andre\model\ClientRepository.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.andre.designpatternsspring.DesignPatternsSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.445 s - in ca.andre.designpatternsspring.DesignPatternsSpringApplicationTests
